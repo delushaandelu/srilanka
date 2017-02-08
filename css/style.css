@@ -39,6 +39,11 @@ body{
 	width:70%;
 	margin:0 auto;
 }
+
+#tbl{
+	margin-top: 2%;
+	width: 100%;
+}
 /*---start-top-header----*/
 .header{
 	background:url(../images/banner.jpg) no-repeat;
